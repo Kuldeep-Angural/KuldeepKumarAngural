@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep</h1>
 <h3 align="center">Tech enthusiast |Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/helloamanraj" target="blank"><img src="https://img.shields.io/twitter/follow/helloamanraj?logo=twitter&style=for-the-badge" alt="helloamanraj" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Data related Projects**
 
